@@ -1,13 +1,13 @@
 {
-   "filename":"purenexus_kenzo-7.1.2-20170618-UNOFFICIAL.zip",
-   "build_date":"20170618",
+   "filename":"filename.zip",
+   "build_date":"20170130",
    "filesize":547356672,
-   "md5":"96e5ca5a30c4883484855d4d4b14eeaa",
-   "developer":"Henrique Silva (jhenrique09)",
-   "url":"http://mirror.codebucket.de/purenexus/kenzo/purenexus_kenzo-7.1.2-20170618-UNOFFICIAL.zip",
-   "changelog_url":"https://raw.githubusercontent.com/PureNexusProject-Mod/changelog/master/kenzo.mkdn",
-   "donate_url":"http://bit.ly/jhenrique09_donate",
-   "website_url":"https://forum.xda-developers.com/redmi-note-3/development/rom-pure-nexus-substratum-fi-wifi-t3577060",
+   "md5":"md5 hash",
+   "developer":"Name (nick) optional",
+   "url":"direct download url",
+   "changelog_url":"changelogs optional",
+   "donate_url":"donate url optional",
+   "website_url":"website url optional",
    "addons":[
       {
          "title":"Beans GApps Mini",
@@ -30,5 +30,5 @@
          "url":"https://s3-us-west-2.amazonaws.com/supersu/download/zip/SuperSU-v2.79-201612051815.zip"
       }
    ],
-   "android_version":"7.1.2"
+   "android_version":"6.0.1"
 }
